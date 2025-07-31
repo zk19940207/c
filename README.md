@@ -1,4 +1,4 @@
-# c语言实现数据结构
-## 线性表
-## 链表
-## Hash
+# data structures implemented in C
+## 
+## 
+## 
